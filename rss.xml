@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Albisteak</title>
+    <link>https://ikasleak.eus</link>
+    <description>Azken berriak</description>
+    <language>eu</language>
+
+    <item>
+      <title>Lehen albistea</title>
+      <link>https://ikasleak.eus/berria1.html</link>
+      <description>
+        Hau da lehen albistearen deskribapena
+      </description>
+      <pubDate>Mon, 15 Jan 2026 10:00:00 GMT</pubDate>
+      <guid>https://ikasleak.eus/berria1.html</guid>
+    </item>
+
+    <item>
+      <title>Bigarren albistea</title>
+      <link>https://ikasleak.eus/berria2.html</link>
+      <description>
+        Bigarren albistearen deskribapena
+      </description>
+      <pubDate>Tue, 16 Jan 2026 09:00:00 GMT</pubDate>
+      <guid>https://ikasleak.eus/berria2.html</guid>
+    </item>
+
+  </channel>
+</rss>
